@@ -1,4 +1,4 @@
-// bin/main.dart
+// bin/patch_package.dart
 import 'dart:io';
 
 import 'package:patch_package/app_log.dart';
