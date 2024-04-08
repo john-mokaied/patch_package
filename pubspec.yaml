@@ -1,0 +1,23 @@
+name: patch_package
+description: "Dart tool for effortlessly patching Flutter packages, enabling quick fixes, modifications, and version control integration for a smoother development workflow."
+version: 0.0.1
+homepage: "https://stopia.se/"
+repository: "https://github.com/yahyamokaied/patch_package"
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+  flutter: ">=1.20.0"
+
+dependencies:
+  path: ^1.9.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  mockito: ^5.4.4
+
+executables:
+  patch_package: main

@@ -15,7 +15,7 @@ Dart tool for patching Flutter packages, enabling quick fixes, modifications, an
 
 ```yaml
 dependencies:
-patch_package: '^0.0.11'
+patch_package: '^0.0.1'
 ```
 
 
